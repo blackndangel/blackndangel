@@ -1,6 +1,6 @@
 ### Hi there👋
 <link rel="preload" href="https://media3.giphy.com/media/1bRvcG0AbXu4U/giphy.gif?cid=ecf05e47r2q1hbxqcsztcbryz5nob31r5svvxm851ide3tb1&rid=giphy.gif&ct=g" alt="Working" width="200" height="100" />
-<img src="https://i.giphy.com/giKklFontfveZrNXjz.gif" alt="Working" width="200" height="100" />
+<img src="https://media3.giphy.com/media/1bRvcG0AbXu4U/giphy.gif?cid=ecf05e47r2q1hbxqcsztcbryz5nob31r5svvxm851ide3tb1&rid=giphy.gif&ct=g" alt="Working" width="200" height="100" />
 
 ```js
 const MYSELF = 'Black Lotus'
