@@ -5,7 +5,7 @@
 ```js
 const MYSELF = 'Black Lotus'
 const PROFESSION = 'Software Engineer'
-const PROFESSIONAL_SKILLS = ['Javascript', 'Python', 'Linux']
+const PROFESSIONAL_SKILLS = ['Javascript', 'Python', 'JAVA', 'Linux']
 const PROJECT_TYPES = ['Open Source Projects', 'Personal Projects']
 const HOBBIES = ['Music', 'Art', 'Anime']
 
